@@ -1,3 +1,4 @@
+set background=dark
 colorscheme peaksea
 
 map <leader>q :q!<cr>
